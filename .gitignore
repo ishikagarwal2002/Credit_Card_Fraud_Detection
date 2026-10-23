@@ -1,0 +1,14 @@
+# Dataset files (too large for GitHub; download from Kaggle)
+data/
+*.csv
+*.zip
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
